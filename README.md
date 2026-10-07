@@ -1,40 +1,74 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aeubs66/aeubs66/main/assets/banner.svg" alt="Ayoub Salih — Thoughtful interfaces. Practical software." width="100%" />
+  <img src="https://raw.githubusercontent.com/aeubs66/aeubs66/main/assets/banner.svg?v=ai-engineer" alt="Ayoub Salih — AI Engineer and Full-stack Developer. From models to real applications." width="100%" />
 </p>
 
-<h3 align="center">Full-stack developer · React &amp; TypeScript · Python · AI engineering learner</h3>
-
+<h2 align="center">AI Engineer &amp; Full-stack Developer</h2>
+<p align="center"><b>Python &amp; machine learning · APIs · Modern web experiences</b></p>
 <p align="center">
-  <a href="https://ayoubdev-sepia.vercel.app/"><b>Portfolio ↗</b></a> &nbsp; · &nbsp;
-  <a href="https://github.com/aeubs66?tab=repositories"><b>Explore my repositories ↗</b></a>
+  <a href="https://ayoubdev-sepia.vercel.app/"><b>Visit my portfolio ↗</b></a> &nbsp; / &nbsp;
+  <a href="https://github.com/aeubs66?tab=repositories"><b>Explore my work ↗</b></a>
 </p>
 
 ---
 
-### About me
+### Intelligence meets experience
 
-I'm Ayoub, a full-stack developer who enjoys turning ideas into useful web experiences. I work with React, Next.js, TypeScript, and Python, with an interest in thoughtful interface design and practical problem solving.
+I'm **Ayoub Salih**, an AI Engineer and full-stack developer. My work connects **Python and machine learning** with **APIs, React, and TypeScript** to turn technical ideas into useful applications.
 
-My next area of exploration is **AI engineering**: learning the foundations and connecting them to hands-on projects.
+I care about what happens on both sides of the screen: the intelligence behind a system and the experience of the person using it.
 
-### Selected work
+### Selected projects
 
-| Project | What you'll find | Explore |
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>01 / COMMUNICATION &amp; LEARNING</sub>
+<h3>TalkBloom</h3>
+<p>A communication and learning app with authentication and responsive interfaces.</p>
+<p><code>TypeScript</code> <code>React</code> <code>Node.js</code></p>
+<p><a href="https://github.com/aeubs66/talkbloomApp"><b>Explore the source →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<sub>02 / CODE &amp; EXPERIMENTATION</sub>
+<h3>CodeCraft</h3>
+<p>A collection of coding projects and experiments built with modern web technologies.</p>
+<p><code>TypeScript</code> <code>React</code> <code>Next.js</code></p>
+<p><a href="https://github.com/aeubs66/code"><b>Explore the source →</b></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<sub>03 / DESIGN &amp; DEVELOPMENT</sub>
+<h3>Ayoub.dev</h3>
+<p>My personal portfolio: selected projects, development interests, and an eye for thoughtful interface design.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+<p><a href="https://ayoubdev-sepia.vercel.app/"><b>Visit the website ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/aeubs66/portfolio">View the source</a></p>
+</td>
+</tr>
+</table>
+
+### My toolkit
+
+<p>
+  <a href="https://github.com/tandpfun/skill-icons"><img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,tailwind,nodejs,git,github&amp;theme=dark&amp;perline=8" alt="Python, React, Next.js, TypeScript, Tailwind CSS, Node.js, Git, and GitHub" /></a>
+</p>
+
+| AI &amp; backend | Interfaces | Delivery |
 | :--- | :--- | :--- |
-| **TalkBloom** | A TypeScript communication and learning app with authentication and responsive design. | [Source](https://github.com/aeubs66/talkbloomApp) |
-| **CodeCraft** | Coding projects and experiments built with TypeScript, React, and Next.js. | [Source](https://github.com/aeubs66/code) |
-| **Personal portfolio** | My project showcase, development interests, and approach to interface design. | [Source](https://github.com/aeubs66/portfolio) · [Website](https://ayoubdev-sepia.vercel.app/) |
+| Python · Machine learning · APIs | React · Next.js · TypeScript · Tailwind CSS | Git · GitHub · Vercel |
 
-### Tools I work with
+### Building, experimenting, improving
 
-**Frontend** &nbsp; `React` · `Next.js` · `TypeScript` · `Tailwind CSS`  
-**Backend** &nbsp; `Node.js` · `Python`  
-**Workflow** &nbsp; `Git` · `GitHub` · `Vercel`
+- **Connect the pieces.** Bring models, APIs, and interfaces together.
+- **Make it usable.** Give technical ideas a clear and thoughtful user experience.
+- **Keep sharpening the craft.** Learn, experiment, and improve through practice.
 
-### Learning in public
-
-I'm exploring [AI Engineering from Scratch](https://github.com/aeubs66/ai-engineering-from-scratch), a fork of [rohitg00's curriculum](https://github.com/rohitg00/ai-engineering-from-scratch), as part of my learning journey.
+<details>
+<summary><b>Explore my AI engineering learning resources</b></summary>
+<br />
+I keep a fork of <a href="https://github.com/aeubs66/ai-engineering-from-scratch">AI Engineering from Scratch</a> for continued study and experimentation. The original curriculum is by <a href="https://github.com/rohitg00/ai-engineering-from-scratch">rohitg00</a>.
+</details>
 
 ---
 
-<p align="center"><sub>Thanks for visiting. Take a look around, explore a project, or visit my portfolio.</sub></p>
+<p align="center"><b>Have a look at the work. Follow the ideas. Watch what comes next.</b><br /><sub>Ayoub Salih · <a href="https://ayoubdev-sepia.vercel.app/">ayoub.dev</a></sub></p>
